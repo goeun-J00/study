@@ -1,6 +1,6 @@
 # Today-I-Learned
 ## 1. python
-즐거운 파이썬 공부  
+- 데이터 분석 연습  
 
 ## 2. SQL
 
